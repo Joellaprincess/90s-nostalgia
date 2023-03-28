@@ -67,3 +67,9 @@ nav a:visited, nav a:link {
     text-decoration: none;
 }
 
+nav a {
+    display: inline-block;
+    padding: .5em .75em;
+    border-radius: 8px;
+}
+
