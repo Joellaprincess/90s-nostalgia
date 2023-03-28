@@ -143,3 +143,11 @@ footer {
     color: white;
 }
 
+footer p {
+    text-align: center;
+    padding: 8px 0;
+}
+
+.wrapper {
+    max-width: 0 auto;
+}
