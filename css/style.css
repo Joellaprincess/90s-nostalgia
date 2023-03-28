@@ -94,3 +94,12 @@ nav a:hover, nav a:focus {
     background-size: cover;
     background-position: top center;
 }
+
+.hero h1 {
+    width: 75%;
+    margin: 0 auto;
+    padding: .5em;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
