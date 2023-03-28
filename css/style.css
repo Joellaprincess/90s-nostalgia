@@ -114,3 +114,8 @@ nav a:hover, nav a:focus {
     margin: 0 auto;
 }
 
+.trends figure figcaption {
+    color: white;
+    font-style: italic;
+}
+
