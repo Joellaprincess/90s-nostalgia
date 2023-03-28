@@ -103,3 +103,8 @@ nav a:hover, nav a:focus {
     font-size: 2rem;
     color: white;
 }
+
+.trends {
+    background-color: purple;
+}
+
