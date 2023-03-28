@@ -138,3 +138,8 @@ nav a:hover, nav a:focus {
     display: none;
 }
 
+footer {
+    background-color: black;
+    color: white;
+}
+
