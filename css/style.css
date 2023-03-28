@@ -35,3 +35,8 @@ section .wrapper {
     margin: auto;
     padding: 1.5em 0;
 }
+
+header {
+    padding: 1.5em 0;
+}
+
